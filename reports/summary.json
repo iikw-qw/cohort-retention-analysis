@@ -1,0 +1,7 @@
+{
+  "users": 6000,
+  "cohorts": 12,
+  "avg_month1_retention": 0.458,
+  "avg_month3_retention": 0.288,
+  "month1_retention_trend_per_cohort": 0.0128
+}
